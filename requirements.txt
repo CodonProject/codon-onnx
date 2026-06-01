@@ -1,0 +1,8 @@
+requests
+tokenizers
+jinja2
+numpy
+
+# web api
+fastapi
+uvicorn
